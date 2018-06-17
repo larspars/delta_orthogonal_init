@@ -14,3 +14,4 @@ To initialize all layers in a network, call `initAll()`
     local model = nn.Sequential(...)
     initAll(model)
     
+License: MIT
